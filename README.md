@@ -4,7 +4,7 @@ I am a passionate Software Developer and a university student, constantly explor
 
 ## 🚀 What I'm up to right now
 
-*   🚧 **Currently working on:** A **Car Dealership/Management Platform**. I am focusing heavily on building a clean, responsive, and user-friendly **Frontend** (using [ex: React / HTML & CSS]) to improve my UI/UX and state management skills.
+*   🚧 **Currently working on:** A **Car Dealership/Management Platform**. I am focusing heavily on building a clean, responsive, and user-friendly **Frontend** (using  React / HTML & CSS]) to improve my UI/UX and state management skills.
 *   ✅ **Recently completed:** A **CT Scan Medical Diagnosis System** powered by AI. I utilized **YOLOv8** and Python to build a machine learning model capable of analyzing medical images and detecting anomalies with high confidence.
 
 ## 🎓 Academic Background & Learning
@@ -17,10 +17,10 @@ I am currently studying Computer Science at University of Cluj-Napoca . Through 
 
 ## 🛠️ My Tech Stack
 
-*   **Web Development:** [ex: HTML, CSS, JavaScript, React]
+*   **Web Development:**  HTML, CSS, JavaScript, React
 *   **AI & Machine Learning:** Python, YOLOv8, OpenCV
-*   **Databases:** [ex: MySQL, PostgreSQL, MongoDB]
-*   **Tools:** Git, GitHub, VS Code
+*   **Databases:**  MySQL, PostgreSQL, MongoDB
+*   **Tools:** Git, GitHub, VS Code , Visual Studio
 
 ## 📫 How to reach me
 
